@@ -1,0 +1,42 @@
+# JSON
+# {
+#   "firstName": "Moh."
+#   "middleName": "Aburizal"
+#   "lastName": "Purnama"
+#   "hobbies": [
+#     "Coding",
+#     "Reading",
+#     "Listen to music"
+#   ]
+#   "address": {
+#       "city": "Jakarta Selatan"
+#       "country": "Indonesia"
+#     }
+#   "wallet":[
+#       {
+#         "type": "cash",
+#         "amount": "1000"
+#       },
+#       {
+#         "type": "debit",
+#         "amount": "6000"
+#       }
+#    ]
+# }
+
+# YAML
+firstName: Moh.
+middleName: Aburizal
+lastName: Purnama
+hobbies: 
+  - Coding
+  - Reading
+  - Listent to music
+address:
+  city: Jakarta Selatan
+  country: Indonesia
+wallet:
+  - type: cash
+    amount: 1000
+  - type: debit
+    amount: 6000
